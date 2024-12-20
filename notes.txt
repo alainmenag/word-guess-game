@@ -1,0 +1,41 @@
+mongodb+srv://alainmenag:joOc8PrmT98Cs6GQ@orders.yiat72o.mongodb.net/word-guess
+
+
+https://word-guess-game-4qhr.onrender.com
+https://word-guess-game-staging.onrender.com
+
+
+feature/cd
+
+
+
+
+RENDER_STAGING_DEPLOYHOOK
+https://api.render.com/deploy/srv-ctibkijqf0us73bjp0s0?key=ZLO90xuu4II
+
+
+
+
+
+
+
+npm error code EEXIST
+npm error syscall rename
+npm error path /Users/alain/.npm/_cacache/tmp/60fcced8
+npm error dest /Users/alain/.npm/_cacache/content-v2/sha512/92/5a/8d7f860e32465cc6b257a93b3fda66690c962a3c4b7a6378a7f4cc61e2893dc210fced15f017fe2d96021143a60bfb4be7294d6808b90760d42af31a43ed
+npm error errno EEXIST
+npm error Invalid response body while trying to fetch https://registry.npmjs.org/mongodb: EACCES: permission denied, rename '/Users/alain/.npm/_cacache/tmp/60fcced8' -> '/Users/alain/.npm/_cacache/content-v2/sha512/92/5a/8d7f860e32465cc6b257a93b3fda66690c962a3c4b7a6378a7f4cc61e2893dc210fced15f017fe2d96021143a60bfb4be7294d6808b90760d42af31a43ed'
+npm error File exists: /Users/alain/.npm/_cacache/content-v2/sha512/92/5a/8d7f860e32465cc6b257a93b3fda66690c962a3c4b7a6378a7f4cc61e2893dc210fced15f017fe2d96021143a60bfb4be7294d6808b90760d42af31a43ed
+npm error Remove the existing file and try again, or run npm
+npm error with --force to overwrite files recklessly.
+
+npm error A complete log of this run can be found in: /Users/alain/.npm/_logs/2024-12-20T01_49_55_166Z-debug-0.log
+npm error code 1
+npm error path /Users/alain/Downloads/word-guess-game
+npm error command failed
+npm error command sh -c cd server && npm i && cd ../client && npm i
+
+npm error A complete log of this run can be found in: /Users/alain/.npm/_logs/2024-12-20T01_49_54_163Z-debug-0.log
+
+
+
