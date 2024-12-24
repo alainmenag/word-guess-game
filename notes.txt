@@ -10,11 +10,12 @@ feature/cd
 
 
 
-RENDER_STAGING_DEPLOYHOOK
+RENDER_STAGING_DEPLOYHOOK:
 https://api.render.com/deploy/srv-ctibkijqf0us73bjp0s0?key=ZLO90xuu4II
 
 
-
+RENDER_PRODUCTION_DEPLOYHOOK:
+https://api.render.com/deploy/srv-ctibivdsvqrc73fsmlhg?key=3v9C6hN2tQQ
 
 
 
